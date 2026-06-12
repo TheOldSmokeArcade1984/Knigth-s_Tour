@@ -31,7 +31,6 @@ Nessuna libreria esterna, solo codice puro per garantire la massima fluidità de
 Non c'è bisogno di build tools o server node. 
 Ti basta clonare il repository e aprire il file `index.html` nel tuo browser web preferito, oppure navigare direttamente alla pagina del progetto se abilitato su GitHub Pages.
 
-```bash
-git clone [https://github.com/tuo-username/knight-tour-neon-specter.git](https://github.com/tuo-username/knight-tour-neon-specter.git)
-cd knight-tour-neon-specter
 # Apri index.html
+oppure vai direttamente al sito:
+https://theoldsmokearcade1984.github.io/Knigth-s_Tour/
